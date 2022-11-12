@@ -160,7 +160,7 @@ header label {
         height: auto;
     }
 }
-
+/*  animaciones */
 @media (max-aspect-ratio: 16/9) {
     .back_video {
         width: auto;
